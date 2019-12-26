@@ -1,0 +1,102 @@
+C:\Users\lai\source\repos\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\lai\source\repos\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\lai\source\repos\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.Login.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.TableManager.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.DanhSachNhanVien.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.DanhSachTang.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.DichVuKhac.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.LoaiPhong.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.ThongTinChuKhachSan.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.ThongTinChung.resources
+C:\Users\lai\source\repos\QLKS\QLKS\obj\Debug\QLKS.DanhSachPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\bin\Debug\QLKS.exe
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\bin\Debug\QLKS.pdb
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.Login.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.TableManager.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.exe
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.pdb
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.Login.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.TableManager.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachLoaiPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachNhanVien.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachTang.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachDichVu.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTCKS.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTKhachSan.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ChangeTTChuKS.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ChangTTKS.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.AddTang.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.AddPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.AddNhanVien.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.AddNhanVien.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.AddPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.AddTang.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ChangTTKS.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ChangeTTChuKS.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowDanhSachDichVu.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowDanhSachLoaiPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowDanhSachNhanVien.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowDanhSachPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowDanhSachTang.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowTTCKS.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowTTKhachSan.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS\QLKS\obj\Debug\QLKS.ShowTTPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.BookPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.BILL.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.AddDichVU.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTLoaiPhong.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTTang.resources
+C:\Users\lai\Desktop\LTTQ\Đồ án\QLKS - Copy\QLKS\obj\Debug\QLKS.DangKi.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\bin\Debug\QLKS.exe
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\bin\Debug\QLKS.pdb
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.DangKi.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.AddDichVU.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.BILL.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.BookPhong.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.AddNhanVien.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.AddPhong.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.AddTang.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ChangTTKS.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ChangeTTChuKS.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.Login.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.TableManager.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachDichVu.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachLoaiPhong.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachPhong.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowDanhSachTang.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTCKS.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTKhachSan.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTPhong.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTLoaiPhong.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ShowTTTang.resources
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.exe
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.pdb
+C:\Users\lai\Desktop\QLKS - Copy\QLKS\obj\Debug\QLKS.ThemDichVu.resources
