@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ThemDichVu.cs">
+    <Compile Include="Lớp giao diện\ThemDichVu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ThemDichVu.Designer.cs">
+    <Compile Include="Lớp giao diện\ThemDichVu.Designer.cs">
       <DependentUpon>ThemDichVu.cs</DependentUpon>
     </Compile>
     <Compile Include="Lớp giao diện\DangKi.cs">
@@ -189,7 +189,7 @@
     <Compile Include="Lớp giao diện\ShowTTTang.Designer.cs">
       <DependentUpon>ShowTTTang.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ThemDichVu.resx">
+    <EmbeddedResource Include="Lớp giao diện\ThemDichVu.resx">
       <DependentUpon>ThemDichVu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Lớp giao diện\DangKi.resx">
